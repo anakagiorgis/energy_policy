@@ -1,0 +1,4 @@
+openai==0.27.8
+python-docx==0.8.11
+streamlit==1.24.0
+streamlit-chat==0.1.1
