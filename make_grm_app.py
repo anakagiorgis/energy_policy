@@ -4,7 +4,7 @@ import openai
 import docx
 import io
 
-openai.api_key = "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"
+openai.api_key = "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"
 
 st.title("Energy Policy Application")
 
